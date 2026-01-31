@@ -13,10 +13,10 @@ A modern scientific calculator built using JavaFX with a clean interface and smo
 ## Screenshots
 
 ### Dark Mode
-![Dark Mode](screenshots/dark.png)
+![Dark Mode](dark.png)
 
 ### Light Mode
-![Light Mode](screenshots/light.png)
+![Light Mode](light.png)
 
 ## Technologies Used
 
